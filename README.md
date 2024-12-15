@@ -170,7 +170,7 @@ Os testes validam as operações **CRUD** (Create, Read, Update, Delete).
 Os testes unitários foram executados com sucesso utilizando o comando:  
 ```bash
 pytest -v
-```bash
+```
 
 ### Saída esperada:
 
